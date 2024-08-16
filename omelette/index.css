@@ -1,0 +1,80 @@
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+    .back{
+      background-color: white;
+      border: 1px solid white;
+      border-radius: 10px;
+      width: 390px;
+      height: auto;
+      display: block;
+      margin: 60px auto 20px;
+      padding:20px;
+    } 
+    .image{
+      border-radius: 10px;
+      width: 390px;
+    
+    }
+    
+    .font{
+     font-family: "Young Serif", serif; 
+    }
+    .font2{
+       font-family: "Outfit", sans-serif;
+    }
+    .heading{
+      margin: 10px 0 0;
+      
+      font-weight: 200;
+      font-size: 25px
+    }
+    .para{
+      color: rgba(97, 97, 97, 0.692);
+      font-weight: 600;
+      font-size: 9.5px;
+    }
+    .box{
+      background-color: rgba(255, 0, 191, 0.048);
+      border-radius: 10px;
+      padding: 5px;
+      margin-top: 20px;
+    }
+    .sh{
+      color: rgb(106, 0, 128);
+      margin: 10px 20px 5px;
+      font-size: 15px;
+    }
+    strong{
+      color:rgba(99, 83, 70, 0.829)
+      
+    }
+    .time{
+      font-size: 10px;
+      font-weight: 600;
+      color: rgba(94, 82, 68, 0.705)
+    }
+    li{
+      line-height:1.7 ;
+    }
+    .subhed{
+      color: rgb(133, 93, 48);
+      font-size: 18px;
+      font-weight: 100
+    }
+    .table{
+      width: 90%;
+      margin: auto;
+      padding: ;
+      border-collapse: collapse;
+      text-align: left;
+    }
+    td{
+      border-bottom: 1px solid rgba(0, 0, 0, 0.089);
+    }
+    tr:last-child td{
+      border-bottom: none;
+    }
+    .end{
+      color: #8d4727dc;
+      font-weight: 700;
+    }
